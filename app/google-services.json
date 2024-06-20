@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112065732061",
+    "project_id": "tast128",
+    "storage_bucket": "tast128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112065732061:android:c8011a75dcc2a6a5056a34",
+        "android_client_info": {
+          "package_name": "com.momtaz.tast128"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9pLRS5Ts_Cakp0ZKW3co-zyvTSNU8Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
